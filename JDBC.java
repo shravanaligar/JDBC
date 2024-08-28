@@ -2,7 +2,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
-
+// JDBC Program 
 public class JavaJDBC {
     public static void main(String[] args) {
         try {
